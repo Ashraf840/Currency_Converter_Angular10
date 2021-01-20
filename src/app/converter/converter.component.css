@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-input {
+input, select {
     border: 1px gray solid;
     padding: 10px;
     border-radius: 3px;
@@ -14,8 +14,4 @@ strong {
     color: #2196f3;
     margin: 20px;
     font-size: 26px;
-}
-
-label {
-    margin: 10px;
 }
